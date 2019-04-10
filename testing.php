@@ -1,6 +1,6 @@
 <?php 
 
-	echo 100;
-	echo 1000;
+	echo 'if';
+	echo 'else';
 
 ?>

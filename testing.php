@@ -1,6 +1,6 @@
 <?php 
 
-	echo 'if(true)';
+	echo 'if(false)';
 	echo 'elseif(false)';
 
 ?>

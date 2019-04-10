@@ -1,6 +1,6 @@
 <?php 
 
-	echo 10;
 	echo 100;
+	echo 1000;
 
 ?>
